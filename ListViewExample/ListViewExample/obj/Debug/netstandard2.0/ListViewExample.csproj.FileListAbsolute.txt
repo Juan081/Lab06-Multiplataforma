@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ListViewExample\ListViewExample\ListViewExample\obj\Debug\netstandard2.0\ListViewExample.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ListViewExample\ListViewExample\ListViewExample\obj\Debug\netstandard2.0\ListViewExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ListViewExample\ListViewExample\ListViewExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\ListViewExample\ListViewExample\ListViewExample\obj\Debug\netstandard2.0\ListViewCode.xaml.g.cs
+C:\Users\user\source\repos\ListViewExample\ListViewExample\ListViewExample\obj\Debug\netstandard2.0\ListViewDemo.xaml.g.cs
+C:\Users\user\source\repos\ListViewExample\ListViewExample\ListViewExample\obj\Debug\netstandard2.0\ListViewGroup.xaml.g.cs
+C:\Users\user\source\repos\ListViewExample\ListViewExample\ListViewExample\obj\Debug\netstandard2.0\ListViewSource.xaml.g.cs
+C:\Users\user\source\repos\ListViewExample\ListViewExample\ListViewExample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\ListViewExample\ListViewExample\ListViewExample\obj\Debug\netstandard2.0\ListViewExample.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ListViewExample\ListViewExample\ListViewExample\obj\Debug\netstandard2.0\ListViewExample.AssemblyInfo.cs
+C:\Users\user\source\repos\ListViewExample\ListViewExample\ListViewExample\obj\Debug\netstandard2.0\ListViewExample.csproj.CoreCompileInputs.cache
